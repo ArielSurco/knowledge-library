@@ -4,7 +4,7 @@ import {
   CardContent,
   CardDescription,
   CardHeader,
-} from '@/shared/components/atoms/Card'
+} from '@shared/components/atoms/Card/Card'
 import { Link } from 'react-router'
 
 export const Home = () => {
