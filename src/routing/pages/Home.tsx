@@ -20,6 +20,17 @@ export const Home = () => {
           </CardAction>
         </CardContent>
       </Card>
+      <Card>
+        <CardHeader>"Compound components" nativos - Gonza</CardHeader>
+        <CardContent>
+          <CardDescription>
+            ¿Cómo se comportan los componentes compuestos y como crearlos?
+          </CardDescription>
+          <CardAction>
+            <Link to='/compound-component'>Ingresar</Link>
+          </CardAction>
+        </CardContent>
+      </Card>
     </div>
   )
 }
